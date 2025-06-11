@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "68471efef4edaac75f735fc7"
+  },
+  "title": "Python for Beginners",
+  "description": "News activity similar without yard north administration. While why perform network view base. Condition machine population once. Sort thought increase develop onto attack environment."
+},
+{
+  "_id": {
+    "$oid": "68471efef4edaac75f735fc8"
+  },
+  "title": "Data Engineering with Python",
+  "description": "Next card herself by face. Congress budget Mr thank."
+},
+{
+  "_id": {
+    "$oid": "68471efef4edaac75f735fc9"
+  },
+  "title": "MongoDB for Developers",
+  "description": "Write player want black media south."
+},
+{
+  "_id": {
+    "$oid": "68471efef4edaac75f735fca"
+  },
+  "title": "Big Data Processing with Spark",
+  "description": "Red talk training bit. Program build special nothing professor walk stop reach. Natural beautiful small."
+},
+{
+  "_id": {
+    "$oid": "68471efef4edaac75f735fcb"
+  },
+  "title": "Machine Learning with scikit-learn",
+  "description": "Edge term happen our. Will say protect standard remember. Enough drop actually through energy understand industry."
+},
+{
+  "_id": {
+    "$oid": "68471efef4edaac75f735fcc"
+  },
+  "title": "Deep Learning with TensorFlow",
+  "description": "Mouth available reach less. Imagine learn trial morning detail white hold."
+},
+{
+  "_id": {
+    "$oid": "68471efef4edaac75f735fcd"
+  },
+  "title": "AWS Cloud Fundamentals",
+  "description": "Wear education that teach catch contain see different. Own provide door second your idea."
+},
+{
+  "_id": {
+    "$oid": "68471efef4edaac75f735fce"
+  },
+  "title": "Docker for Developers",
+  "description": "Hold nation go quite though ready office. Imagine push case throw within soon her. None maintain because of film father. Chance deal song particularly customer begin."
+},
+{
+  "_id": {
+    "$oid": "68471f77f4edaac75f735fcf"
+  },
+  "title": "Python for Beginners",
+  "description": "Whole focus none use cell describe. Doctor two provide themselves avoid very."
+},
+{
+  "_id": {
+    "$oid": "68471f77f4edaac75f735fd0"
+  },
+  "title": "Data Engineering with Python",
+  "description": "Family become newspaper expect open here argue apply. Thousand speech huge you add hospital."
+},
+{
+  "_id": {
+    "$oid": "68471f77f4edaac75f735fd1"
+  },
+  "title": "MongoDB for Developers",
+  "description": "Food activity individual himself car. Plan road expert I property lead. Suffer he blue trouble."
+},
+{
+  "_id": {
+    "$oid": "68471f77f4edaac75f735fd2"
+  },
+  "title": "Big Data Processing with Spark",
+  "description": "Gas five push next. Road green pretty behind near student including heavy."
+},
+{
+  "_id": {
+    "$oid": "68471f77f4edaac75f735fd3"
+  },
+  "title": "Machine Learning with scikit-learn",
+  "description": "Something administration management view recognize allow firm. Senior though who specific."
+},
+{
+  "_id": {
+    "$oid": "68471f77f4edaac75f735fd4"
+  },
+  "title": "Deep Learning with TensorFlow",
+  "description": "Low bring quickly. Safe bring close. Success smile world or official couple."
+},
+{
+  "_id": {
+    "$oid": "68471f77f4edaac75f735fd5"
+  },
+  "title": "AWS Cloud Fundamentals",
+  "description": "Public cause subject join learn. Seem organization they care beautiful collection young. Because never sing same morning especially draw question."
+},
+{
+  "_id": {
+    "$oid": "68471f77f4edaac75f735fd6"
+  },
+  "title": "Docker for Developers",
+  "description": "Real south plant group. Happy force alone agreement mean others."
+},
+{
+  "_id": {
+    "$oid": "6847f9e8f4edaac75f736020"
+  },
+  "title": "Databases Design Fundamentals",
+  "description": "Learning relational and NoSQL DB design.",
+  "category": "Database",
+  "instructor_id": {
+    "$oid": "68471a62f4edaac75f735ec3"
+  },
+  "price": 20000,
+  "created_at": {
+    "$date": "2025-06-10T09:24:56.177Z"
+  }
+}]

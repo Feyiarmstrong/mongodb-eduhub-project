@@ -1,0 +1,686 @@
+[{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f8b"
+  },
+  "name": "Laurie Lamb",
+  "email": "kedwards@example.net",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.249Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f8c"
+  },
+  "name": "Theresa Marquez",
+  "email": "kimberlyshort@example.net",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.249Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f8d"
+  },
+  "name": "Christine Carter",
+  "email": "zpearson@example.com",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.249Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f8e"
+  },
+  "name": "Charles Valenzuela",
+  "email": "mark63@example.org",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.251Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f8f"
+  },
+  "name": "Debra Moore",
+  "email": "hpayne@example.com",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.252Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f90"
+  },
+  "name": "Joseph Hatfield",
+  "email": "georgewatson@example.org",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.252Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f91"
+  },
+  "name": "Lisa Williams",
+  "email": "brownfrank@example.org",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.253Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f92"
+  },
+  "name": "David Lewis",
+  "email": "jscott@example.net",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f93"
+  },
+  "name": "Brittany Keith",
+  "email": "jessicawells@example.net",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.255Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f94"
+  },
+  "name": "Clifford Ellis",
+  "email": "jacksonjeremiah@example.org",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f95"
+  },
+  "name": "Christopher Scott",
+  "email": "mcasey@example.com",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.259Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f96"
+  },
+  "name": "Ryan Hall",
+  "email": "luiswhite@example.org",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.260Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f97"
+  },
+  "name": "Courtney Barker",
+  "email": "bsmith@example.com",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.261Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f98"
+  },
+  "name": "Carrie Hall",
+  "email": "laurenwilliams@example.com",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.262Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f99"
+  },
+  "name": "Kathryn Guerrero",
+  "email": "anna42@example.org",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.262Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f9a"
+  },
+  "name": "Anthony Jones",
+  "email": "dnelson@example.org",
+  "role": "instructor",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.263Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f9b"
+  },
+  "name": "Leslie Buckley",
+  "email": "selena26@example.net",
+  "role": "instructor",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.263Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f9c"
+  },
+  "name": "Rachel Thompson",
+  "email": "ywright@example.net",
+  "role": "instructor",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.264Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f9d"
+  },
+  "name": "Jodi Zhang",
+  "email": "bpaul@example.net",
+  "role": "instructor",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.264Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471c4df4edaac75f735f9e"
+  },
+  "name": "Ryan Rodriguez",
+  "email": "grantryan@example.net",
+  "role": "instructor",
+  "created_at": {
+    "$date": "2025-06-09T18:39:25.265Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735f9f"
+  },
+  "name": "Samantha Watts",
+  "email": "jonesmichael@example.org",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.657Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735fa0"
+  },
+  "name": "Jennifer Perry",
+  "email": "lmccormick@example.net",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.657Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735fa1"
+  },
+  "name": "Tracy Williams",
+  "email": "george15@example.net",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.658Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735fa2"
+  },
+  "name": "John Robbins",
+  "email": "virginiasanchez@example.org",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.658Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735fa3"
+  },
+  "name": "Trevor Kelley",
+  "email": "whitakernathan@example.com",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.659Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735fa4"
+  },
+  "name": "Bryan Sanchez",
+  "email": "darrell23@example.org",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.659Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735fa5"
+  },
+  "name": "Derek Pierce",
+  "email": "justinhughes@example.com",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.659Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735fa6"
+  },
+  "name": "Mrs. Kelly Parker",
+  "email": "sharon95@example.com",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.659Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735fa7"
+  },
+  "name": "David Hernandez",
+  "email": "tflowers@example.net",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.659Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735fa8"
+  },
+  "name": "Shelby Miranda",
+  "email": "shanson@example.org",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.660Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735fa9"
+  },
+  "name": "Kara Benton",
+  "email": "thomasmcdowell@example.com",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.660Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735faa"
+  },
+  "name": "Adrian Rodriguez",
+  "email": "omeza@example.org",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.661Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735fab"
+  },
+  "name": "Kathryn Johnson",
+  "email": "rwright@example.net",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.661Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735fac"
+  },
+  "name": "Dale Miller",
+  "email": "tmcbride@example.org",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.662Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735fad"
+  },
+  "name": "Jared Ross",
+  "email": "fostermitchell@example.net",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.662Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735fae"
+  },
+  "name": "Anthony Smith",
+  "email": "samuel08@example.com",
+  "role": "instructor",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.662Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735faf"
+  },
+  "name": "Kristi Turner",
+  "email": "ycox@example.net",
+  "role": "instructor",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.663Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735fb0"
+  },
+  "name": "Debbie Lopez",
+  "email": "kevinlee@example.org",
+  "role": "instructor",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.663Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735fb1"
+  },
+  "name": "Travis Knapp",
+  "email": "sbonilla@example.com",
+  "role": "instructor",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.663Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471ce3f4edaac75f735fb2"
+  },
+  "name": "Jasmine Gaines",
+  "email": "klowe@example.net",
+  "role": "instructor",
+  "created_at": {
+    "$date": "2025-06-09T18:41:55.664Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fb3"
+  },
+  "name": "Michael Mckinney",
+  "email": "pchen@example.net",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fb4"
+  },
+  "name": "Suzanne Kennedy",
+  "email": "rose91@example.org",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fb5"
+  },
+  "name": "Patricia Brown",
+  "email": "wpruitt@example.com",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fb6"
+  },
+  "name": "Crystal Wright",
+  "email": "hamptonsydney@example.org",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fb7"
+  },
+  "name": "Carol Rodriguez",
+  "email": "angelawilliams@example.com",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fb8"
+  },
+  "name": "Donald Williams",
+  "email": "christopherbush@example.net",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fb9"
+  },
+  "name": "Melanie Marshall",
+  "email": "hbowers@example.net",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fba"
+  },
+  "name": "Megan Levine",
+  "email": "cjones@example.com",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fbb"
+  },
+  "name": "Lisa Young",
+  "email": "andrewsjeremy@example.net",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.883Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fbc"
+  },
+  "name": "Paul Moore",
+  "email": "wagnerrenee@example.org",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.883Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fbd"
+  },
+  "name": "Jennifer Green",
+  "email": "anthonygay@example.net",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.883Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fbe"
+  },
+  "name": "Richard Perry",
+  "email": "sharris@example.com",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.883Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fbf"
+  },
+  "name": "Valerie Gilmore",
+  "email": "zlewis@example.org",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.884Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fc0"
+  },
+  "name": "Nathaniel Bray",
+  "email": "lthompson@example.com",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.884Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fc1"
+  },
+  "name": "Michelle Hartman",
+  "email": "wilsonjeffrey@example.com",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.884Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fc2"
+  },
+  "name": "Patricia Torres",
+  "email": "ashley03@example.com",
+  "role": "instructor",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.885Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fc3"
+  },
+  "name": "Steven Miller",
+  "email": "eleonard@example.com",
+  "role": "instructor",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.885Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fc4"
+  },
+  "name": "John Krause",
+  "email": "clopez@example.org",
+  "role": "instructor",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.885Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fc5"
+  },
+  "name": "Rodney Gutierrez",
+  "email": "grossmichael@example.com",
+  "role": "instructor",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.886Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68471d51f4edaac75f735fc6"
+  },
+  "name": "Raymond Mason",
+  "email": "morenocassandra@example.com",
+  "role": "instructor",
+  "created_at": {
+    "$date": "2025-06-09T18:43:45.886Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6848ba68f4edaac75f736023"
+  },
+  "name": "John Doe",
+  "email": "john@example.com",
+  "role": "student",
+  "created_at": {
+    "$date": "2025-06-10T23:06:16.460Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6848baa0f4edaac75f736024"
+  },
+  "name": "Alice",
+  "email": "alice@example.com",
+  "role": "instructor",
+  "created_at": "2025-06-10"
+},
+{
+  "_id": {
+    "$oid": "6848babdf4edaac75f736025"
+  },
+  "name": "Missing Email"
+}]

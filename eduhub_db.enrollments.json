@@ -1,0 +1,224 @@
+[{
+  "_id": {
+    "$oid": "684721e7f4edaac75f735fd7"
+  },
+  "student_id": {
+    "$oid": "68471d51f4edaac75f735fb3"
+  },
+  "course_id": {
+    "$oid": "68471efef4edaac75f735fcc"
+  },
+  "enrolled_on": {
+    "$date": "2025-06-09T19:03:19.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684721e7f4edaac75f735fd8"
+  },
+  "student_id": {
+    "$oid": "68471ce3f4edaac75f735fa6"
+  },
+  "course_id": {
+    "$oid": "68471efef4edaac75f735fce"
+  },
+  "enrolled_on": {
+    "$date": "2025-06-09T19:03:19.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684721e7f4edaac75f735fd9"
+  },
+  "student_id": {
+    "$oid": "68471d51f4edaac75f735fbe"
+  },
+  "course_id": {
+    "$oid": "68471efef4edaac75f735fc7"
+  },
+  "enrolled_on": {
+    "$date": "2025-06-09T19:03:19.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684721e7f4edaac75f735fda"
+  },
+  "student_id": {
+    "$oid": "68471d51f4edaac75f735fb9"
+  },
+  "course_id": {
+    "$oid": "68471efef4edaac75f735fc8"
+  },
+  "enrolled_on": {
+    "$date": "2025-06-09T19:03:19.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684721e7f4edaac75f735fdb"
+  },
+  "student_id": {
+    "$oid": "68471c4df4edaac75f735f8b"
+  },
+  "course_id": {
+    "$oid": "68471efef4edaac75f735fce"
+  },
+  "enrolled_on": {
+    "$date": "2025-06-09T19:03:19.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684721e7f4edaac75f735fdc"
+  },
+  "student_id": {
+    "$oid": "68471ce3f4edaac75f735fad"
+  },
+  "course_id": {
+    "$oid": "68471efef4edaac75f735fc7"
+  },
+  "enrolled_on": {
+    "$date": "2025-06-09T19:03:19.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684721e7f4edaac75f735fdd"
+  },
+  "student_id": {
+    "$oid": "68471d51f4edaac75f735fbe"
+  },
+  "course_id": {
+    "$oid": "68471efef4edaac75f735fcc"
+  },
+  "enrolled_on": {
+    "$date": "2025-06-09T19:03:19.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684721e7f4edaac75f735fde"
+  },
+  "student_id": {
+    "$oid": "68471c4df4edaac75f735f96"
+  },
+  "course_id": {
+    "$oid": "68471f77f4edaac75f735fd3"
+  },
+  "enrolled_on": {
+    "$date": "2025-06-09T19:03:19.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684721e7f4edaac75f735fdf"
+  },
+  "student_id": {
+    "$oid": "68471d51f4edaac75f735fbd"
+  },
+  "course_id": {
+    "$oid": "68471efef4edaac75f735fc8"
+  },
+  "enrolled_on": {
+    "$date": "2025-06-09T19:03:19.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684721e7f4edaac75f735fe0"
+  },
+  "student_id": {
+    "$oid": "68471d51f4edaac75f735fbd"
+  },
+  "course_id": {
+    "$oid": "68471f77f4edaac75f735fd1"
+  },
+  "enrolled_on": {
+    "$date": "2025-06-09T19:03:19.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684721e7f4edaac75f735fe1"
+  },
+  "student_id": {
+    "$oid": "68471ce3f4edaac75f735fab"
+  },
+  "course_id": {
+    "$oid": "68471f77f4edaac75f735fcf"
+  },
+  "enrolled_on": {
+    "$date": "2025-06-09T19:03:19.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684721e7f4edaac75f735fe2"
+  },
+  "student_id": {
+    "$oid": "68471d51f4edaac75f735fb4"
+  },
+  "course_id": {
+    "$oid": "68471f77f4edaac75f735fd1"
+  },
+  "enrolled_on": {
+    "$date": "2025-06-09T19:03:19.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684721e7f4edaac75f735fe3"
+  },
+  "student_id": {
+    "$oid": "68471d51f4edaac75f735fb4"
+  },
+  "course_id": {
+    "$oid": "68471f77f4edaac75f735fd0"
+  },
+  "enrolled_on": {
+    "$date": "2025-06-09T19:03:19.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684721e7f4edaac75f735fe4"
+  },
+  "student_id": {
+    "$oid": "68471c4df4edaac75f735f93"
+  },
+  "course_id": {
+    "$oid": "68471f77f4edaac75f735fd6"
+  },
+  "enrolled_on": {
+    "$date": "2025-06-09T19:03:19.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684721e7f4edaac75f735fe5"
+  },
+  "student_id": {
+    "$oid": "68471d51f4edaac75f735fbd"
+  },
+  "course_id": {
+    "$oid": "68471efef4edaac75f735fcc"
+  },
+  "enrolled_on": {
+    "$date": "2025-06-09T19:03:19.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6847fa76f4edaac75f736021"
+  },
+  "user_id": {
+    "$oid": "6847f8ecf4edaac75f73601f"
+  },
+  "course_id": {
+    "$oid": "6847f9e8f4edaac75f736020"
+  },
+  "enrolled_at": {
+    "$date": "2025-06-10T09:27:18.624Z"
+  }
+}]
