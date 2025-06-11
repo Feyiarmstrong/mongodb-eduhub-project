@@ -40,7 +40,7 @@ It uses a document-based schema in MongoDB to manage educational content and int
 ####altuserschema collection
 Stores both students and instructors.
 
-```json
+#json
 
 user_schema = {
     “_id”: “ObjectId (auto-generated)”,
@@ -144,7 +144,6 @@ Based on days since last submission
 
 Purpose: Distinguish engaged students from inactive ones using activity timestamps.
 
----
 
 Each query is optimized for performance with proper indexing and structured aggregation. These operations power the analytics dashboard and ensure smooth data access for both users and instructors.
 
@@ -163,7 +162,7 @@ Before Optimization:
 - Slow response time when collection grew large
 
 Optimization Applied:
-```python
+#python
 db.users.create_index([("email", 1)], unique=True)
 
 After optimization 
