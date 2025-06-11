@@ -34,9 +34,10 @@ A MongoDB-based analytics project for managing and analyzing online education pl
 
   
 #### Database Schema Documentation
-The application uses a document-based schema in MongoDB to manage educational content and interactions between students and instructors.
+It uses a document-based schema in MongoDB to manage educational content and interactions between students and instructors.
 
-### altuserschema Collection
+
+####altuserschema collection
 Stores both students and instructors.
 
 ```json
