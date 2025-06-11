@@ -2,7 +2,7 @@
 A MongoDB-based analytics project for managing and analyzing online education platform data using PyMongo.
 
 
-##### Project Setup Instructions
+#### Project Setup Instructions
 1. Install MongoDB  
    - Download and install MongoDB Community Edition from [https://www.mongodb.com/try/download/community](https://www.mongodb.com/try/download/community)  
      
@@ -33,7 +33,7 @@ A MongoDB-based analytics project for managing and analyzing online education pl
 
 
   
-##### Database Schema Documentation
+#### Database Schema Documentation
 The application uses a document-based schema in MongoDB to manage educational content and interactions between students and instructors.
 
 ### altuserschema Collection
@@ -77,7 +77,7 @@ course_schema = {
     “isPublished”: “boolean”
 
 
-###### Query Explanations
+#### Query Explanations
 
 This section explains key MongoDB queries used in the project and their purpose.
 1. User Email Lookup
@@ -152,7 +152,7 @@ Each query is optimized for performance with proper indexing and structured aggr
 
 
 
-###### Performance Analysis Results
+#### Performance Analysis Results
 
 Query 1: Find User by Email
 
@@ -216,7 +216,7 @@ Adding indexes drastically improved query speed and reduced system load. Each in
 
 
 
-##### Challenges Faced & Solutions
+#### Challenges Faced & Solutions
 
 1. Data Consistency Between Collections
 - Challenge: Ensuring relationships (like student–enrollment–course–assignment) remained valid across multiple collections.
