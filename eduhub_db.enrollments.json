@@ -1,0 +1,195 @@
+[{
+  "_id": {
+    "$oid": "684a05c04512eed8bc924c06"
+  },
+  "enrollment_id": "E001",
+  "user_id": "U001",
+  "course_id": "C006",
+  "enrolled_on": {
+    "$date": "2025-06-11T02:23:00.000Z"
+  },
+  "progress": 41,
+  "completed": false
+},
+{
+  "_id": {
+    "$oid": "684a05c04512eed8bc924c07"
+  },
+  "enrollment_id": "E002",
+  "user_id": "U018",
+  "course_id": "C003",
+  "enrolled_on": {
+    "$date": "2025-05-31T18:49:56.000Z"
+  },
+  "progress": 89,
+  "completed": true
+},
+{
+  "_id": {
+    "$oid": "684a05c04512eed8bc924c08"
+  },
+  "enrollment_id": "E003",
+  "user_id": "U018",
+  "course_id": "C001",
+  "enrolled_on": {
+    "$date": "2025-06-08T21:40:29.000Z"
+  },
+  "progress": 88,
+  "completed": true
+},
+{
+  "_id": {
+    "$oid": "684a05c04512eed8bc924c0a"
+  },
+  "enrollment_id": "E005",
+  "user_id": "U001",
+  "course_id": "C001",
+  "enrolled_on": {
+    "$date": "2025-06-09T04:26:51.000Z"
+  },
+  "progress": 71,
+  "completed": false
+},
+{
+  "_id": {
+    "$oid": "684a05c04512eed8bc924c0b"
+  },
+  "enrollment_id": "E006",
+  "user_id": "U017",
+  "course_id": "C001",
+  "enrolled_on": {
+    "$date": "2025-06-11T07:37:20.000Z"
+  },
+  "progress": 89,
+  "completed": true
+},
+{
+  "_id": {
+    "$oid": "684a05c04512eed8bc924c0c"
+  },
+  "enrollment_id": "E007",
+  "user_id": "U004",
+  "course_id": "C002",
+  "enrolled_on": {
+    "$date": "2025-05-20T17:37:29.000Z"
+  },
+  "progress": 36,
+  "completed": false
+},
+{
+  "_id": {
+    "$oid": "684a05c04512eed8bc924c0d"
+  },
+  "enrollment_id": "E008",
+  "user_id": "U015",
+  "course_id": "C004",
+  "enrolled_on": {
+    "$date": "2025-03-02T10:20:52.000Z"
+  },
+  "progress": 67,
+  "completed": true
+},
+{
+  "_id": {
+    "$oid": "684a05c04512eed8bc924c0e"
+  },
+  "enrollment_id": "E009",
+  "user_id": "U018",
+  "course_id": "C008",
+  "enrolled_on": {
+    "$date": "2025-05-06T13:58:58.000Z"
+  },
+  "progress": 98,
+  "completed": false
+},
+{
+  "_id": {
+    "$oid": "684a05c04512eed8bc924c0f"
+  },
+  "enrollment_id": "E010",
+  "user_id": "U011",
+  "course_id": "C006",
+  "enrolled_on": {
+    "$date": "2025-06-09T16:13:23.000Z"
+  },
+  "progress": 93,
+  "completed": false
+},
+{
+  "_id": {
+    "$oid": "684a05c04512eed8bc924c10"
+  },
+  "enrollment_id": "E011",
+  "user_id": "U010",
+  "course_id": "C001",
+  "enrolled_on": {
+    "$date": "2025-06-10T09:38:26.000Z"
+  },
+  "progress": 57,
+  "completed": false
+},
+{
+  "_id": {
+    "$oid": "684a05c04512eed8bc924c11"
+  },
+  "enrollment_id": "E012",
+  "user_id": "U011",
+  "course_id": "C002",
+  "enrolled_on": {
+    "$date": "2025-04-17T09:28:23.000Z"
+  },
+  "progress": 95,
+  "completed": true
+},
+{
+  "_id": {
+    "$oid": "684a05c04512eed8bc924c12"
+  },
+  "enrollment_id": "E013",
+  "user_id": "U011",
+  "course_id": "C004",
+  "enrolled_on": {
+    "$date": "2025-04-22T02:41:40.000Z"
+  },
+  "progress": 77,
+  "completed": true
+},
+{
+  "_id": {
+    "$oid": "684a05c04512eed8bc924c13"
+  },
+  "enrollment_id": "E014",
+  "user_id": "U005",
+  "course_id": "C005",
+  "enrolled_on": {
+    "$date": "2025-06-09T11:51:56.000Z"
+  },
+  "progress": 44,
+  "completed": false
+},
+{
+  "_id": {
+    "$oid": "684a05c04512eed8bc924c14"
+  },
+  "enrollment_id": "E015",
+  "user_id": "U006",
+  "course_id": "C004",
+  "enrolled_on": {
+    "$date": "2025-04-22T17:30:55.000Z"
+  },
+  "progress": 53,
+  "completed": false
+},
+{
+  "_id": {
+    "$oid": "684a0cbe4512eed8bc924c70"
+  },
+  "enrollment_id": "E999",
+  "user_id": "U999",
+  "course_id": "C999",
+  "enrolled_on": {
+    "$date": "2025-06-12T00:09:50.640Z"
+  },
+  "progress": 0,
+  "is_active": true
+}]

@@ -1,0 +1,322 @@
+[{
+  "_id": {
+    "$oid": "684a04054512eed8bc924bfe"
+  },
+  "course_id": "C001",
+  "title": "MongoDB for Developers",
+  "description": "Master cloud infrastructure and deployment using AWS, Docker, and Kubernetes.",
+  "instructor_id": "U013",
+  "category": "Web Development",
+  "level": "beginner",
+  "duration": 40,
+  "price": 0,
+  "tags": [
+    "mentor-supported",
+    "lifetime-access",
+    "interview-prep"
+  ],
+  "created_at": {
+    "$date": "2025-06-08T19:57:39.000Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-11T23:32:37.198Z"
+  },
+  "is_published": false,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      3.420356692406968,
+      6.583948292017099
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684a04054512eed8bc924bff"
+  },
+  "course_id": "C002",
+  "title": "Big Data Processing with Spark",
+  "description": "Learn to build REST APIs and microservices with Flask and Django.",
+  "instructor_id": "U014",
+  "category": "Data Engineering",
+  "level": "beginner",
+  "duration": 40,
+  "price": 200,
+  "tags": [
+    "lifetime-access",
+    "hands-on",
+    "project-based"
+  ],
+  "created_at": {
+    "$date": "2025-03-21T16:12:44.000Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-11T23:32:37.198Z"
+  },
+  "is_published": false,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      3.420356692406968,
+      6.583948292017099
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684a04054512eed8bc924c00"
+  },
+  "course_id": "C003",
+  "title": "Data Visualization with Seaborn",
+  "description": "Learn to build REST APIs and microservices with Flask and Django.",
+  "instructor_id": "U012",
+  "category": "DevOps",
+  "level": "advanced",
+  "duration": 47,
+  "price": 150,
+  "tags": [
+    "downloadable-resources",
+    "mentor-supported",
+    "beginner-friendly"
+  ],
+  "created_at": {
+    "$date": "2025-05-29T14:32:36.000Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-11T23:32:37.198Z"
+  },
+  "is_published": false,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      3.420356692406968,
+      6.583948292017099
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684a04054512eed8bc924c01"
+  },
+  "course_id": "C004",
+  "title": "Data Visualization with Seaborn",
+  "description": "This course introduces you to web development using HTML, CSS, and JavaScript.",
+  "instructor_id": "U013",
+  "category": "Data Engineering",
+  "level": "intermediate",
+  "duration": 57,
+  "price": 100,
+  "tags": [
+    "quiz-included",
+    "project-based",
+    "real-world",
+    "interview-prep",
+    "lifetime-access"
+  ],
+  "created_at": {
+    "$date": "2025-02-25T10:53:41.000Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-11T23:32:37.198Z"
+  },
+  "is_published": true,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      3.420356692406968,
+      6.583948292017099
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684a04054512eed8bc924c02"
+  },
+  "course_id": "C005",
+  "title": "Computer Vision with OpenCV",
+  "description": "Explore modern DevOps workflows, CI/CD pipelines, and monitoring strategies.",
+  "instructor_id": "U003",
+  "category": "DevOps",
+  "level": "beginner",
+  "duration": 5,
+  "price": 250,
+  "tags": [
+    "community-support",
+    "mentor-supported",
+    "project-based"
+  ],
+  "created_at": {
+    "$date": "2025-04-28T06:34:45.000Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-11T23:32:37.198Z"
+  },
+  "is_published": true,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      3.420356692406968,
+      6.583948292017099
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684a04054512eed8bc924c03"
+  },
+  "course_id": "C006",
+  "title": "Big Data Processing with Spark",
+  "description": "Understand core machine learning concepts with hands-on Python projects.",
+  "instructor_id": "U019",
+  "category": "Data Engineering",
+  "level": "intermediate",
+  "duration": 49,
+  "price": 250,
+  "tags": [
+    "certification",
+    "beginner-friendly",
+    "hands-on"
+  ],
+  "created_at": {
+    "$date": "2025-05-24T11:37:25.000Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-11T23:32:37.198Z"
+  },
+  "is_published": true,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      3.420356692406968,
+      6.583948292017099
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684a04054512eed8bc924c04"
+  },
+  "course_id": "C007",
+  "title": "Deep Learning with TensorFlow",
+  "description": "Understand core machine learning concepts with hands-on Python projects.",
+  "instructor_id": "U020",
+  "category": "Data Engineering",
+  "level": "beginner",
+  "duration": 34,
+  "price": 200,
+  "tags": [
+    "career-ready",
+    "project-based",
+    "real-world"
+  ],
+  "created_at": {
+    "$date": "2025-01-16T10:40:23.000Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-11T23:32:37.198Z"
+  },
+  "is_published": true,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      3.420356692406968,
+      6.583948292017099
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684a04054512eed8bc924c05"
+  },
+  "course_id": "C008",
+  "title": "Machine Learning with scikit-learn",
+  "description": "Learn to build REST APIs and microservices with Flask and Django.",
+  "instructor_id": "U003",
+  "category": "Cloud Computing",
+  "level": "intermediate",
+  "duration": 36,
+  "price": 50,
+  "tags": [
+    "hands-on",
+    "real-world",
+    "quiz-included"
+  ],
+  "created_at": {
+    "$date": "2025-01-09T23:38:34.000Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-11T23:32:37.198Z"
+  },
+  "is_published": false,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      3.420356692406968,
+      6.583948292017099
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684a0a9d4512eed8bc924c6c"
+  },
+  "course_id": "C999",
+  "title": "Data Engineering Essentials",
+  "description": "Master the basics of data pipelines, ETL, and database management.",
+  "instructor_id": "U005",
+  "category": "Data Engineering",
+  "level": "beginner",
+  "duration": 40,
+  "price": 150,
+  "tags": [
+    "project-based",
+    "career-ready",
+    "interactive"
+  ],
+  "created_at": {
+    "$date": "2025-06-12T00:00:45.224Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-12T00:00:45.224Z"
+  },
+  "is_published": true,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      3.420356692406968,
+      6.583948292017099
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "684a0b424512eed8bc924c6e"
+  },
+  "course_id": "C999",
+  "title": "Data Engineering Essentials",
+  "description": "Master the basics of data pipelines, ETL, and database management.",
+  "instructor_id": "U005",
+  "category": "Data Engineering",
+  "level": "beginner",
+  "duration": 40,
+  "price": 150,
+  "tags": [
+    "project-based",
+    "career-ready",
+    "interactive"
+  ],
+  "created_at": {
+    "$date": "2025-06-12T00:03:30.050Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-12T00:03:30.050Z"
+  },
+  "is_published": true,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      3.420356692406968,
+      6.583948292017099
+    ]
+  }
+}]
