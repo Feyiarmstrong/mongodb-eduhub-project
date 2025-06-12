@@ -36,7 +36,9 @@ A MongoDB-based analytics project for managing and analyzing online education pl
 #### Database Schema Documentation
 
 #CREATE USER SCHEMA
+
 #Preselected values
+
 roles = ["student", "instructor"]
 
 bio = [
@@ -92,7 +94,10 @@ for i in range(1, 101):
 
 
 #Create course schema
+
+
 # Preselected options
+
 categories = ["Data Engineering", "Web Development", "Cloud Computing", "AI", "DevOps"]
 levels = ["beginner", "intermediate", "advanced"]
 tags = [
