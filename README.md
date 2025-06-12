@@ -34,49 +34,128 @@ A MongoDB-based analytics project for managing and analyzing online education pl
 
   
 #### Database Schema Documentation
-It uses a document-based schema in MongoDB to manage educational content and interactions between students and instructors.
+
+#CREATE USER SCHEMA
+#Preselected values
+roles = ["student", "instructor"]
+
+bio = [
+    "Passionate about lifelong learning and sharing knowledge.",
+    "Loves# to solve problems through technology and data.",
+    "Driven by curiosity and a desire to build meaningful things.",
+    "Helping students grow into world-class developers.",
+    "Committed to creating impactful learning experiences."
+]
+
+avatar = [
+    "https://api.dicebear.com/6.x/thumbs/svg?seed=Alpha",
+    "https://api.dicebear.com/6.x/thumbs/svg?seed=Beta",
+    "https://api.dicebear.com/6.x/thumbs/svg?seed=Gamma",
+    "https://api.dicebear.com/6.x/thumbs/svg?seed=Delta",
+    "https://api.dicebear.com/6.x/thumbs/svg?seed=Echo",
+    "https://api.dicebear.com/6.x/thumbs/svg?seed=Zeta",
+    "https://api.dicebear.com/6.x/thumbs/svg?seed=Orion",
+    "https://api.dicebear.com/6.x/thumbs/svg?seed=Nova",
+    "https://api.dicebear.com/6.x/thumbs/svg?seed=Pixel",
+    "https://api.dicebear.com/6.x/thumbs/svg?seed=Rocket"
+]
+
+skills = [
+    "Python", "MongoDB", "Data Engineering", "ETL", "Machine Learning",
+    "Cloud Computing", "Docker", "JavaScript", "SQL", "APIs"
+]
+
+# Generate users_schema
+users_schema = []
+
+for i in range(1, 101):
+    r_user = {
+        "_id" : ObjectId(),
+        "user_id" : f"U{str(i).zfill(3)}",
+        "email" : fake.email(),
+        "first_name" : fake.first_name(),
+        "last_name" : fake.last_name(),
+        "date_joined" : fake.date_time_between(start_date="-1y", end_date="now"),
+        "role" : random.choice(roles),
+        "profile" : {
+            "bio" : random.choice(bio),
+            "avatar" : random.choice(avatar),
+            "skills" : random.sample(skills, k=3)
+        },
+
+        "is_active" : random.choice([True, False])
+    }
+
+    users_schema.append(r_user)
 
 
-####altuserschema collection
-Stores both students and instructors.
-
-#json
-
-user_schema = {
-    “_id”: “ObjectId (auto-generated)”,
-    “userId”: “string (unique)”,
-    “email”: “string (unique, required)”,
-    “firstName”: “string (required)”,
-    “lastName”: “string (required)”,
-    “role”: “string (enum: [‘student’, ‘instructor’])”,
-    “dateJoined”: “datetime”,
-    “profile”: {
-        “bio”: “string”,
-        “avatar”: “string”,
-        “skills”: [“string”]
-    },
-    “isActive”: “boolean”
-}
 
 
+#Create course schema
+# Preselected options
+categories = ["Data Engineering", "Web Development", "Cloud Computing", "AI", "DevOps"]
+levels = ["beginner", "intermediate", "advanced"]
+tags = [
+    "project-based", "career-ready", "hands-on", "real-world", "certification",
+    "mentor-supported", "interactive", "video-tutorials", "downloadable-resources",
+    "quiz-included", "assignment-driven", "lifetime-access", "community-support",
+    "interview-prep", "beginner-friendly"
+]
+descriptions = [
+    "Learn how to build scalable data pipelines using modern tools and best practices.",
+    "This course introduces you to web development using HTML, CSS, and JavaScript.",
+    "Master cloud infrastructure and deployment using AWS, Docker, and Kubernetes.",
+    "Understand core machine learning concepts with hands-on Python projects.",
+    "Get started with databases and SQL for data analysis and backend development.",
+    "Develop a strong foundation in data engineering with real-world ETL scenarios.",
+    "Explore modern DevOps workflows, CI/CD pipelines, and monitoring strategies.",
+    "Learn to build REST APIs and microservices with Flask and Django.",
+    "Gain experience in big data technologies like Spark and Hadoop.",
+    "Prepare for a career in AI with deep learning and neural network fundamentals."
+]
 
-### altcourseschema collection
+titles = [
+    "Python for Beginners",
+    "Data Engineering with Python",
+    "MongoDB for Developers",
+    "Big Data Processing with Spark",
+    "Machine Learning with scikit-learn",
+    "Deep Learning with TensorFlow",
+    "Data Visualization with Seaborn",
+    "AWS Cloud Fundamentals",
+    "Building REST APIs with FastAPI",
+    "Kubernetes for Developers",
+    "Unit Testing in Python",
+    "Git & GitHub for Collaboration",
+    "Clean Code and Refactoring",
+    "Computer Vision with OpenCV",
+    "Deploying Applications with Docker"
+]
 
-course_schema = {
-    “_id”: “ObjectId (auto-generated)”,
-    “courseId”: “string (unique)”,
-    “title”: “string (required)”,
-    “description”: “string”,
-    “instructorId”: “string (reference to users)”,
-    “category”: “string”,
-    “level”: “string (enum: [‘beginner’, ‘intermediate’, ‘advanced’])”,
-    “duration”: “number (in hours)”,
-    “price”: “number”,
-    “tags”: [“string”],
-    “createdAt”: “datetime”,
-    “updatedAt”: “datetime”,
-    “isPublished”: “boolean”
+# Simulated instructor user_ids (replace with real ones later)
+instructor_ids = [f"U{str(i).zfill(3)}" for i in range(1, 41)]
 
+# Generate courses
+course_schema = []
+
+for i in range(1, 101):
+    r_course = {
+        "_id": ObjectId(),
+        "course_id": f"C{str(i).zfill(3)}",
+        "title": random.choice(titles),
+        "description": random.choice(descriptions),
+        "instructor_id": random.choice(instructor_ids),
+        "category": random.choice(categories),
+        "level": random.choice(levels),
+        "duration": random.randint(5, 60),  # hours
+        "price": random.choice([0, 50, 100, 150, 200, 250, 300]), 
+        "tags": random.sample(tags, k=3),
+        "created_at": fake.date_time_between(start_date="-6M", end_date="now"),
+        "updated_at": datetime.now(),
+        "is_published": random.choice([True, False])
+    }
+
+    course_schema.append(r_course)
 
 #### Query Explanations
 
