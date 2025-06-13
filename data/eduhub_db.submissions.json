@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "684a06e44512eed8bc924c5d"
+  },
+  "submission_id": "S001",
+  "assignment_id": "A004",
+  "user_id": "U015",
+  "submitted_on": {
+    "$date": "2025-06-07T23:44:52.913Z"
+  },
+  "content": "Enough movie store whole. Fine one arm manager month.",
+  "score": 93,
+  "graded": false
+},
+{
+  "_id": {
+    "$oid": "684a06e44512eed8bc924c5e"
+  },
+  "submission_id": "S002",
+  "assignment_id": "A003",
+  "user_id": "U018",
+  "submitted_on": {
+    "$date": "2025-06-08T23:44:52.913Z"
+  },
+  "content": "Remember opportunity floor behavior see trial arm. Act difference prepare return lot author. Crime water also dream language identify respond.",
+  "score": 61,
+  "graded": false
+},
+{
+  "_id": {
+    "$oid": "684a06e44512eed8bc924c5f"
+  },
+  "submission_id": "S003",
+  "assignment_id": "A003",
+  "user_id": "U004",
+  "submitted_on": {
+    "$date": "2025-06-11T23:44:52.913Z"
+  },
+  "content": "Positive nature subject prevent attention grow. Job new necessary that road return myself. Alone spend TV officer base before she. Save look rise majority town today growth.",
+  "score": 57,
+  "graded": true
+},
+{
+  "_id": {
+    "$oid": "684a06e44512eed8bc924c60"
+  },
+  "submission_id": "S004",
+  "assignment_id": "A007",
+  "user_id": "U004",
+  "submitted_on": {
+    "$date": "2025-06-08T23:44:52.913Z"
+  },
+  "content": "Not discuss mission same wind. Buy feel leg sit. Goal single material rock might finally particularly.",
+  "score": 84,
+  "graded": true,
+  "grade": 85
+},
+{
+  "_id": {
+    "$oid": "684a06e44512eed8bc924c61"
+  },
+  "submission_id": "S005",
+  "assignment_id": "A001",
+  "user_id": "U004",
+  "submitted_on": {
+    "$date": "2025-06-07T23:44:52.915Z"
+  },
+  "content": "Picture network full story ten. Kind drive produce interesting partner. Matter ahead ready hope worry film growth eat.",
+  "score": 99,
+  "graded": true
+},
+{
+  "_id": {
+    "$oid": "684a06e44512eed8bc924c62"
+  },
+  "submission_id": "S006",
+  "assignment_id": "A005",
+  "user_id": "U006",
+  "submitted_on": {
+    "$date": "2025-06-07T23:44:52.915Z"
+  },
+  "content": "Third behavior goal. Both number develop heart option role not. Accept left rich board. Upon certainly move really operation how senior beat.",
+  "score": 59,
+  "graded": true
+},
+{
+  "_id": {
+    "$oid": "684a06e44512eed8bc924c63"
+  },
+  "submission_id": "S007",
+  "assignment_id": "A009",
+  "user_id": "U001",
+  "submitted_on": {
+    "$date": "2025-06-08T23:44:52.915Z"
+  },
+  "content": "Science my blue again. Decision environment soon set someone degree no. Try tonight baby short decision perform but. Professor student reveal why political. Difference paper buy suddenly.",
+  "score": 67,
+  "graded": false
+},
+{
+  "_id": {
+    "$oid": "684a06e44512eed8bc924c64"
+  },
+  "submission_id": "S008",
+  "assignment_id": "A009",
+  "user_id": "U004",
+  "submitted_on": {
+    "$date": "2025-06-10T23:44:52.915Z"
+  },
+  "content": "Get skin police than physical today. Pressure behavior will with could better rich. Interest moment Democrat him claim stuff.",
+  "score": 99,
+  "graded": false
+},
+{
+  "_id": {
+    "$oid": "684a06e44512eed8bc924c65"
+  },
+  "submission_id": "S009",
+  "assignment_id": "A003",
+  "user_id": "U004",
+  "submitted_on": {
+    "$date": "2025-06-07T23:44:52.915Z"
+  },
+  "content": "Everyone voice build gas tax. Along husband especially nature bring from raise. Test energy very first.",
+  "score": 58,
+  "graded": false
+},
+{
+  "_id": {
+    "$oid": "684a06e44512eed8bc924c66"
+  },
+  "submission_id": "S010",
+  "assignment_id": "A003",
+  "user_id": "U011",
+  "submitted_on": {
+    "$date": "2025-06-10T23:44:52.915Z"
+  },
+  "content": "Hundred something network Republican. Beat shoulder agent kid old rest usually. Student exist purpose. Choice outside resource past itself tough painting.",
+  "score": 70,
+  "graded": false
+},
+{
+  "_id": {
+    "$oid": "684a06e44512eed8bc924c67"
+  },
+  "submission_id": "S011",
+  "assignment_id": "A006",
+  "user_id": "U001",
+  "submitted_on": {
+    "$date": "2025-06-09T23:44:52.915Z"
+  },
+  "content": "Color cell food message weight later us. Return knowledge for task recent which. Rather daughter performance strong prevent. Child control only develop his. Rich turn can forward chair.",
+  "score": 50,
+  "graded": false
+},
+{
+  "_id": {
+    "$oid": "684a06e44512eed8bc924c68"
+  },
+  "submission_id": "S012",
+  "assignment_id": "A002",
+  "user_id": "U015",
+  "submitted_on": {
+    "$date": "2025-06-09T23:44:52.916Z"
+  },
+  "content": "Dream school term lot opportunity. When night international mother nature skin. Far TV finally technology get.",
+  "score": 70,
+  "graded": true
+}]
